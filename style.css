@@ -1,0 +1,44 @@
+body{
+ background: #002a61;
+ color: aliceblue;
+}
+menu{
+  background-color: rgb(0, 30, 85);
+  border-radius: 75px;
+  bottom: 40px;
+  border-width: 20px;
+  border-right: 10px;
+  border: 50px;
+  box-sizing: content-box;
+  width: 200px;
+  right: 80px;
+}
+menu h1 a{
+ color: rgb(255, 255, 255);
+ text-align: center;
+ text-decoration: solid;
+ border-width: 80px;
+ border-right: 80px;
+ border-left: 50px;
+ width: 80px;
+ right: 75px;
+}
+img{
+  width: 200px;   /* largura */
+  height: 200px;  /* altura */
+  border-radius: 50%; /* deixa redonda */
+  object-fit: cover;  /* corta e centraliza a imagem */
+}
+button {
+  background-color: blue;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  border-radius: 50%;
+}
+
+button:hover {
+  background-color: darkblue;
+}
