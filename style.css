@@ -1,9 +1,9 @@
 body{
- background: #002a61;
- color: aliceblue;
+ background-image: url(foto/beck.jpg);
+  color: aliceblue;
 }
 menu{
-  background-color: rgb(0, 30, 85);
+  background-color: rgb(26, 26, 27);
   border-radius: 75px;
   bottom: 40px;
   border-width: 20px;
